@@ -46,7 +46,7 @@ const Newsapp=()=>{
     return(
         <>
             <div>
-               <h1>News Application</h1>
+               <h1> KNG News Application</h1>
                <div>
                 {
                     category.map((category)=>{
